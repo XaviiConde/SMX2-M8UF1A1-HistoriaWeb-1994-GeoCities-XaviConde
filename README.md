@@ -23,4 +23,4 @@ Fue un servicio de webhosting gratuito. El diseño original contaba con un direc
 
 GeoCities fue fundado por David Bohnett y John Rezner en 1994 como «Beverly Hills».
 
-<img src=https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-GeoCities-XaviConde/blob/main/imagen_2022-09-27_091528328%20(1).png "Creadores_GeoCities alt="amf" width="300"/>
+<img src=https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-GeoCities-XaviConde/blob/main/imagen_2022-09-27_091528328%20(1).png alt="amf" width="300"/>
